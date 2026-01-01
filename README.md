@@ -1,4 +1,6 @@
-![Hywatch Logo](src/main/resources/logo.png)
+<p align="center">
+  <img src="src/main/resources/logo.png" alt="Hywatch Logo" />
+</p>
 
 # Hywatch Mock Client
 
