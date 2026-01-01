@@ -1,0 +1,14 @@
+{
+  "server_id": "server-1",
+  "player_id": "PLR-001-A2B4",
+  "player_name": "ShadowKnight42",
+  "event_type": "building",
+  "timestamp_ms": 1704092400000,
+  "payload": {
+    "summary": "Placed 5 blocks",
+    "metadata": {
+      "action": "placed", 
+      "count": 5
+    }
+  }
+}

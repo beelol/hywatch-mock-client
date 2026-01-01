@@ -1,0 +1,12 @@
+{
+  "server_id": "server-1",
+  "player_id": "PLR-001-A2B4",
+  "player_name": "ShadowKnight42",
+  "event_type": "kill",
+  "timestamp_ms": 1704092400000,
+  "payload": {
+    "summary": "Slew Mob-42 using diamond_sword",
+    "victim": "Mob-42",
+    "weapon": "diamond_sword"
+  }
+}
