@@ -1,3 +1,5 @@
+![Hywatch Logo](src/main/resources/logo.png)
+
 # Hywatch Mock Client
 
 A simple Java Swing application to simulate a Minecraft client sending telemetry events to the Hywatch backend. This tool is used for development and testing of the Hywatch ingestion pipeline.
